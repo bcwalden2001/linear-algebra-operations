@@ -6,4 +6,4 @@ The file defines custom functions for:
 - Matrix inversion 
 - Matrix determinant
 
-The main function loads several test matrices, runs each algorithm, and prints the solution vectors, inverse matrices, and determinants.
+Several test matrices were created to run each algorithm on.
